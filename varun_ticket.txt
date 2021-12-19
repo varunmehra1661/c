@@ -1,0 +1,8 @@
+TOURISM TICKET
+===============
+
+Email ID: varun
+Tour Code: AA
+Ticket Cost: P 5000.000000
+Number of tickets: 5
+Total Cost: P 25000.000000
